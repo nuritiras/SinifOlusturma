@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Siniflar", "Siniflar\Siniflar.pyproj", "{E972BE7B-B0FB-494A-8551-0F09C4098237}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E972BE7B-B0FB-494A-8551-0F09C4098237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E972BE7B-B0FB-494A-8551-0F09C4098237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F1C6132-51CF-49ED-AE44-95CB7B0E0D8F}
+	EndGlobalSection
+EndGlobal
